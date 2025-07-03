@@ -1,1 +1,3 @@
-## 1 Projeto de faculdade realizado com python, bem rústico.
+## Primeiro projeto de faculdade realizado com python, bem rústico.
+
+- para executar apenas execute o arquivo .py
